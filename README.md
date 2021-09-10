@@ -22,7 +22,7 @@
 <p align="center">
   <img width="" style="background:#4680C2;" src="https://github-readme-stats.vercel.app/api?username=yarkovaleksei&hide_border=true&hide_title=true" alt="Statistics" />
   <br />
-  <p align="center">Hi, I'm Aleksey, senior developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197408.svg" width="16" /> Russia, <img src="https://www.flaticon.com/svg/static/icons/svg/760/760037.svg" width="16" /> Donetsk.</p>
+  <p align="center">Hi, I'm Aleksey, senior developer from Russia, Donetsk.</p>
 </p>
 
 <h3>Things I code with</h3>
