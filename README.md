@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Vue-3fb984?style=for-the-badge&logo=Vue&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-4c768d?style=for-the-badge&logo=Vue&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
@@ -39,7 +40,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
 </p>
 
---------------
+<!-- --------------
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=yarkovaleksei.readme" />
-</p>
+</p> -->
